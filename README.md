@@ -1,2 +1,2 @@
 # HibernateJPAInheritances
-OneToOne,ManyToMany and ManyToOne / OneToMany relationship examples.
+ManyToMany,ManyToOne(OneToMany)and self-referencing examples
